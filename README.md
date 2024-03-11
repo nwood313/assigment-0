@@ -18,7 +18,7 @@ If your github handle was `petecarapetyan` and your name was `John Smith` and yo
 
 At this time, we do not review Assignment0, it is for your personal education only, so do not hand it in to the Assignments App like you would with Assignments 1-15
 
-![Complete](/images/complete.jpg)
+![Complete](/images/complet.jpg)
 
 ## Extra Credit
 
