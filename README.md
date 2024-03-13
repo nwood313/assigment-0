@@ -1,4 +1,3 @@
 # Nathaniel Woodruff
 
-
-<img src="/images/ME.jpeg"> 	
+<img src="/images/ME.jpeg">	
